@@ -11,7 +11,7 @@ const CONFIG = {
     reasonPlaceholder: 'Lý do',
     btnReply: 'Gửii ! 💌💌',
     reply: 'chị Yêu công ty nhiều lắmm',
-    mess: 'Em biết mà 🥰. Love chị yêu xiền đúng k 😘😘',
+    mess: 'Em biết mà 🥰. Chị yêu xiền đúng k 😘😘',
     messDesc: '💬💬 Nhắn tin cho em nha. 💬💬',
     btnAccept: 'Ok lun 💖',
     messLink: 'https://www.facebook.com/quocdat.phan.12'
